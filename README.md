@@ -6,6 +6,8 @@
 * Authorities not know and not understand what their people really produce because they can not read the code
 * Putting young unexperienced people under pressure with less specification (on old messed up system)
 * Authorities expect to much from people under them what they self can not do
+* Often the wrong people are in authority, because their are have a louder voice (like in school)
+* Leaders are not see poeple under that are better as enemy instead and good team member for whole team
 * People leave and new people do not understand the code and design ideas behind
 * Core products or libraries are not stable and foundation is not thick enough to hold future business
 * Choosing the wrong to complicated technology, because everyone else use it
