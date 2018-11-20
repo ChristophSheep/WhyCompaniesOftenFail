@@ -13,3 +13,4 @@
 * People do not seek the hidden wisdom of programming that got lost over the last 30 decades in programming
 * People do not produce clean code and do not care
 * Having people in charge are not called to be in that position
+* Company was grown to fast, foundation not set right
