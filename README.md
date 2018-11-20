@@ -19,3 +19,6 @@
 * It easy to write new software, it is not easy to maintain it (and not mess it up) over many years
 * Software needs permanent care like a child (BugFixing, stabelizing, refactoring, Make it simpler)
 * Programmer use their intelligence to create ultra complicate system that only they understand instead of creating ultra simple system that all can understand - Each fool can create a complicated system, but only the wise can handle a complex thing by divide it into simple parts that everyone can understand
+* Ignoring the facts that old code has to be maintain
+* Libraries should be written very stable because they are your backbone of your business
+* A lot of code should be libraries and a small core. You business should be written like plugins to be flexible when business change
