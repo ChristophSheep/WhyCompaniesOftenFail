@@ -23,4 +23,4 @@
 * Libraries should be written very stable because they are your backbone of your business
 * A lot of code should be libraries and a small core. You business should be written like plugins to be flexible when business change
 * Ignoring the fact the simple written documentation is very important because nobody remembers things also when people are not hear anymore
-* Written code is the smallest problem. The problem is to written that it works for the next 10 years. Maintainces costs are very high for bad written code. This can bring a company done.
+* Writting code is the smallest problem. The problem is to written that it works for the next 10 years. Maintainces costs are very high for bad written code. This can bring a company done.
