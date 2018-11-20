@@ -7,3 +7,4 @@
 * Putting people under pressure with less specification 
 * Authorities expect to much from people under them what they self can not do
 * People leave and new people do not understand the code what before did before
+* Core product or libraries are not stable and thick enough to hold future business
