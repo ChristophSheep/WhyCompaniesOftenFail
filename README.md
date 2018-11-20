@@ -18,3 +18,4 @@
 * Authorities does not understand that maintaince of old software can bring you down
 * It easy to write new software, it is not easy to maintain it (and not mess it up) over many years
 * Software needs permanent care like a child (BugFixing, stabelizing, refactoring, Make it simpler)
+* Programmer use their intelligence to create ultra complicate system that only they understand instead of creating ultra simple system that all can understand - Each fool can create a complicated system, but only the wise can handle a complex thing by divide it into simple parts that everyone can understand
