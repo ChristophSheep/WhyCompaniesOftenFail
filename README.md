@@ -14,3 +14,7 @@
 * People do not produce clean code and do not care
 * Having people in charge are not called to be in that position
 * Company was grown to fast, foundation not set right
+* Authorities does not understand that their people are very important
+* Authorities does not understand that maintaince of old software can bring you down
+* It easy to write new software, it is not easy to maintain it (and not mess it up) over many years
+* Software needs permanent care like a child (BugFixing, stabelizing, refactoring, Make it simpler)
