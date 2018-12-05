@@ -25,7 +25,7 @@
 * Libraries should be written very stable because they are your backbone of your business
 * A lot of code should be libraries and a small core. You business should be written like plugins to be flexible when business change
 * Ignoring the fact the simple written documentation is very important because nobody remembers things also when people are not hear anymore
-* Writting code is the smallest problem. The problem is to written that it works for the next 10 years. Maintainces costs are very high for bad written code. This can bring a company done.
+* Writing code is the smallest problem. The problem is that it works for the next 10 years. Maintainces costs are very high for bad (not readable, hard to understand) written code. This can bring a company done.
 * Design of software a not extensible and open for future business you do not know. (see The APIs of Maya and its command scripting languages (MEL and Python) are key to the software being open and extensible. During the initial design of Maya, Maya and its C++ API were built together in order to maximize its extensibility. To fully appreciate this relationship, you must first understand the architecture of Maya.)
 
 ## Maintaince
@@ -41,5 +41,18 @@ upgrade the technology. Unit Tests are often not covers the full.
 Everything has to be done with a API. So that you have function call so that you can do everything with method the user
 can do with the UI. So you can script the application. So that is useful for automated testing. So you can add a new user.
 Create some object and do some action and check if the system works like you expected it. The command pattern would be helpful.
+
+## Cornerstone
+
+In the beginning of the application you must have a very exact cornerstone. Because the inital design and the way you start is the way you grow the appplication. If you start lean with your building on the very bottom and grow this up you will often see it 10 years later and then it is to late. Because then it is very expensive. Often you have to make a fresh start and start over again. Most companies are not be aware of that. So it is much better to start very slow, but very exact in the beginning. And when you notice that you design concept is bring good fruit you "automatic" grow up fast, because you have to write less code, because you foundation core code is rich.
+
+## Personal
+
+Having the right personal, especially the right people in charge is very critical. They are your "non-technical" cornerstones of you business. If you have the wrong or half-wrong persons on critical position then this with multiply through the whole company. If you think there is a workflow through the company and this is a flow of information. f = f1 * f2 * f3 ... * fn if one of this factor is nearly to zero the whole chain is nearly zero. The positive way around if many of this factor a high the whol factor is very high. If the people in charge are building a very high factor and have the right vision and organize their company right then if you only have
+
+## Truck factor
+
+Building a big system around one single person. Truck-Factor/Bus-Factor
+I never saw a happy person in this position. If you have a angry person in this position your whole business building could fall in some days. Often this person are feels reponsible for everything. And nothing seems to be really works without this person.
 
 
