@@ -27,3 +27,12 @@
 * Ignoring the fact the simple written documentation is very important because nobody remembers things also when people are not hear anymore
 * Writting code is the smallest problem. The problem is to written that it works for the next 10 years. Maintainces costs are very high for bad written code. This can bring a company done.
 * Design of software a not extensible and open for future business you do not know. (see The APIs of Maya and its command scripting languages (MEL and Python) are key to the software being open and extensible. During the initial design of Maya, Maya and its C++ API were built together in order to maximize its extensibility. To fully appreciate this relationship, you must first understand the architecture of Maya.)
+
+## Maintaince
+
+Most forget if a software project go over years then the maintaince is the most difficult part.
+People are not there anymore you made the software in the beginning. Why things are done is lost.
+Code is often written like a handwriting then is not easily readable for other. The same things is the design methods
+they are also made like this. Also a problem is that technology is changing over 10 years fast. So you need to
+upgrade the technology. Unit Tests are often not covers the full.
+
