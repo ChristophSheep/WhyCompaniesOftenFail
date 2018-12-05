@@ -36,3 +36,10 @@ Code is often written like a handwriting then is not easily readable for other. 
 they are also made like this. Also a problem is that technology is changing over 10 years fast. So you need to
 upgrade the technology. Unit Tests are often not covers the full.
 
+## Scripting
+
+Everything has to be done with a API. So that you have function call so that you can do everything with method the user
+can do with the UI. So you can script the application. So that is useful for automated testing. So you can add a new user.
+Create some object and do some action and check if the system works like you expected it. The command pattern would be helpful.
+
+
